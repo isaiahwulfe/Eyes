@@ -1,4 +1,4 @@
-# <div align="center">Real Time Bus Tracker</div>
+# <div align="center">Eyes</div>
 
 ### <div align="center">About</div>
 > - This project displays two eyes that follow the cursor movement 
